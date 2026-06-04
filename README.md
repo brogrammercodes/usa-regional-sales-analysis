@@ -41,7 +41,6 @@ Analyze Acme Co.'s 2014–2018 sales data to identify key revenue and profit dri
 | `Regional Sales Dataset.xlsx` | Raw source workbook (Sales Orders, Customers, Products, Regions, State Regions, 2017 Budgets). |
 | `Sales_data(EDA Exported).csv` | Cleaned, merged, feature-engineered dataset exported from the notebook. |
 | `SALES REPORT.pbix` | Interactive Power BI dashboard. |
-| `PPT --- Regional Sales Analysis.pptx` | Presentation summarizing methodology and findings. |
 | `Dashboard Backround/` | Power BI dashboard layout/background templates (Pages 1–3). |
 
 ---
